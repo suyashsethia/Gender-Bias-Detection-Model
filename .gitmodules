@@ -1,0 +1,3 @@
+[submodule "GeBNLP2019"]
+	path = GeBNLP2019
+	url = https://github.com/alfredomg/GeBNLP2019
