@@ -1,1 +1,0 @@
-Almost the exact same color names are used in .NET Framework, in the KnownColor and Color enumerations. The only color difference is DarkSeaGreen which is defined as 8F,BC,8B .

@@ -1,1 +1,0 @@
-  tan ⁡ A =  perpendicular base  =  p b  =  sin ⁡ A  cos ⁡ A   .  {\displaystyle \tan A={\frac {\text{perpendicular}}{\text{base}}}={\frac {p}{b}}={\frac {\sin A}{\cos A}}\,.} 

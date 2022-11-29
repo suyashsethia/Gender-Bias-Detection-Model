@@ -1,1 +1,0 @@
-An abbreviated, three digit form is sometimes used. Expanding this form to the six-digit form is as simple as doubling each digit: 09C becomes 0099CC. This allows each color value to cover its full range from 00 to FF.

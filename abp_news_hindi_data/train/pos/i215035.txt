@@ -1,1 +1,0 @@
-{| style="width: 150px" | क्लब || style="width: 200px; text-align: left" | लीग || style="width: 200px; text-align: left" | स्थान || style="width: 50px; text-align: center" | स्थापित || style="width: 20px; text-align: center" | चैंपियनशिप ||}|-

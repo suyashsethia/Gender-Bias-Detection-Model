@@ -1,1 +1,0 @@
-The circuit has the tendency to stabilize operating point against changes in temperature and β-value.

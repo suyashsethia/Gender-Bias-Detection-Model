@@ -1,1 +1,0 @@
-जहां   a, b, c, d  {\displaystyle a,b,c,d}  चतुर्भुज की भुजाएँ हैं और   s  {\displaystyle s} चतुर्भुज का अर्द्ध परिमाप है, और   A  {\displaystyle A} और   C  {\displaystyle C} दो विपरीत कोण हैं।

@@ -1,1 +1,0 @@
-पार्श्व चित्र में   b  {\displaystyle b} त्रिभुज का आधार है तथा   h  {\displaystyle h} उसकी ऊँचाई। अतः इस त्रिभुज का क्षेत्रफल   A =  b h 2  .  {\displaystyle A={\frac {bh}{2}}.} 

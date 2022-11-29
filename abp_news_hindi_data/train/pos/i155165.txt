@@ -1,1 +1,0 @@
-significant figure The number of digits in a number that tell you useful information. For example, when you weigh yourself on a bathroom scale, it says something like 150 pounds rather than 150.32843737 pounds. Why? Because the thing can only weigh accurately to the nearest pound. Any other digits that are on this number don't mean anything, because they're probably wrong anyway.

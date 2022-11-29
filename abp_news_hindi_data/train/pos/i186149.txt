@@ -1,1 +1,1 @@
-पिंगला का उद्गम मूलाधार के दाहिने भाग से होता है जबकि पिंगला का बाएँ भाग से।
+where Γ is the Gram determinant of A and B defined by:

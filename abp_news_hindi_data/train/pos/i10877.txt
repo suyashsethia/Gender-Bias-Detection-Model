@@ -1,1 +1,0 @@
-The SSA condition which specifies two sides and a non-included angle ) does not always prove congruence.

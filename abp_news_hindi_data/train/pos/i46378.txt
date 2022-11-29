@@ -1,1 +1,0 @@
-  K =   | tan ⁡ θ |  4  ⋅ |  a 2  + c 2  − b 2  − d 2  | .  {\displaystyle K={\frac {|\tan \theta |}{4}}\cdot \left|a^{2}+c^{2}-b^{2}-d^{2}\right|.} 

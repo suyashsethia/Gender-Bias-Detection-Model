@@ -1,1 +1,0 @@
-If x, y, and z are the three angles of any triangle, i.e. if x + y + z = π, then

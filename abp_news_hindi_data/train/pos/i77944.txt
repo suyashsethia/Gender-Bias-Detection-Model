@@ -1,1 +1,0 @@
-    ω ^   2  =  S S t r e a t  − d f t r e a t  M S e r r o r   S S t o t a l  + M S e r r o r    {\displaystyle {\hat {\omega }}^{2}={\frac {SS_{treat}-df_{treat}MS_{error}}{SS_{total}+MS_{error}}}} 

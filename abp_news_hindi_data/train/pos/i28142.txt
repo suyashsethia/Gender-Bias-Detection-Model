@@ -1,1 +1,0 @@
-The feedback also increases the input impedance of the amplifier when seen from the base, which can be advantageous. Due to the above disadvantages, this type of biasing circuit is used only with careful consideration of the trade-offs involved.

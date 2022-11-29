@@ -1,1 +1,0 @@
-Also   V B  = V b e  + I e  R e    {\displaystyle V_{B}=V_{be}+I_{e}R_{e}\ } 

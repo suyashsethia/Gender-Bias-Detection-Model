@@ -1,1 +1,0 @@
-where    ∂ M  ∂ x  =  ∂ N  ∂ y    {\displaystyle {\frac {\partial M}{\partial x}}={\frac {\partial N}{\partial y}}\,\!} 

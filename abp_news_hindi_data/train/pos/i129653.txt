@@ -1,1 +1,1 @@
-called state vector, and is called output vector, u is called input vector, A is the parent of states, B is the input matrix, C is the output matrix and D 
+नीदरलैंड भौगोलिक सन्दर्भ में एक निचला देश है। इसका लगभग 20% क्षेत्र समुद्री तल से नीचे है। लगभग 21% आबादी समुद्री तल से नीचे रहती है एवं लगभग 50% आबादी समुद्री तल से बस एक मीटर की ऊँचाई पर है।

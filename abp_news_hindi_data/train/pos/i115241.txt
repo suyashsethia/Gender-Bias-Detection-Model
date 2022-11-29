@@ -1,1 +1,1 @@
-Adygea · Bashkortostan · Chechnya · Chuvashia · Dagestan · Ingushetia · Kabardino-Balkaria · Kalmykia · Karachay-Cherkessia · Karelia · Komi · Mari El · Mordovia · Nenets AO · North Ossetia-Alania · Tatarstan · Udmurtia
+तदर्थ पोलिमोर्फ़िज्म फंक्शन और विधि ओवरलोडिंग का प्रयोग करते हुए कई भाषाओँ में भी समर्थन प्राप्त करती है।

@@ -1,1 +1,0 @@
-node A location in an orbital where there's no probability of finding an electron.

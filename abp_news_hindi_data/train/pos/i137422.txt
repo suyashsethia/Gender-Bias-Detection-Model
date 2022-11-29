@@ -1,1 +1,0 @@
-The number of colors that can be represented by this system is 

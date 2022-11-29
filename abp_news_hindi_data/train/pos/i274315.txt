@@ -1,1 +1,0 @@
-Convergence of geometric series can also be demonstrated by rewriting the series as an equivalent telescoping series. Consider the function,

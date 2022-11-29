@@ -1,1 +1,0 @@
-For x* fixed, the function x*x – f = x*x – cx2 of साँचा:Mvar has the first derivative x* – 2cx and second derivative −2c; there is one stationary point at x = x*/2c, which is always a maximum. Thus, I* = R and 

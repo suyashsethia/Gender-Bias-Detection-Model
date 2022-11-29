@@ -1,1 +1,0 @@
-   g 21  =    U 2  U 1   |  I 2  = 0   g 22  =    U 2  I 2   |  U 1  = 0   {\displaystyle g_{21}=\left.{\frac {U_{2}}{U_{1}}}\right|_{I_{2}=0}\quad g_{22}=\left.{\frac {U_{2}}{I_{2}}}\right|_{U_{1}=0}} 

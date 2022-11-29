@@ -1,1 +1,0 @@
-The operating point is independent of β if Re >> Rb/β

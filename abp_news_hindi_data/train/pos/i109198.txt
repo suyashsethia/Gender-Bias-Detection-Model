@@ -1,1 +1,0 @@
-In the given digits, if some digits are repeated, then at those number of places find number of permutations assuming different digits. Divide by this number, the number of permutations of all given digits, assuming different digits at all places.

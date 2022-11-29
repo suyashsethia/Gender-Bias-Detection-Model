@@ -1,1 +1,0 @@
-functional group A generic term for a group of atoms that cause a molecule to react in a specific way. It's really common to talk about this in organic chemistry, where you have "aldehydes, carboxylic acids, amines" and so on.

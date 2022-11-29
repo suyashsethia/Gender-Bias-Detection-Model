@@ -1,1 +1,0 @@
-From Kirchhoff's voltage law, the voltage   V  R  b    {\displaystyle V_{{\text{R}}_{\text{b}}}} across the base resistor   R b   {\displaystyle R_{\text{b}}} is

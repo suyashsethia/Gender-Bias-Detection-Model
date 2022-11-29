@@ -1,1 +1,0 @@
-Line 38: bar:Lethal from:01/01/1996 till:end color:Turntables- Invalid statement. No '=' found.

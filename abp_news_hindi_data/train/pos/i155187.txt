@@ -1,1 +1,1 @@
-तन्त्र  Everything you're talking about at the moment.
+You must specify issue= and startpage= when using {{London Gazette}}. Available parameters:साँचा:London Gazette/doc/parameterlist

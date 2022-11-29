@@ -1,1 +1,0 @@
-An example of this new device from ABB shows how this device improves on GTO technology for switching high voltage and high current in power electronics applications. According to ABB, the IGCT devices are capable of switching in excess of 5000 VAC and 5000 A at very high frequencies, something not possible to do efficiently with GTO devices.

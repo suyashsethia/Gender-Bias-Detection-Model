@@ -1,1 +1,0 @@
-hProduct uses HTML classes including:

@@ -1,1 +1,0 @@
-  M   d y  d x  + N = 0   {\displaystyle M{\frac {dy}{dx}}+N=0\,\!} 

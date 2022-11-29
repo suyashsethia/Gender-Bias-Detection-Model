@@ -1,1 +1,0 @@
-P = from Plural noun; O = Other

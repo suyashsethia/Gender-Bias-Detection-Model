@@ -1,1 +1,0 @@
-   V B  =   {\displaystyle V_{B}=\ } voltage across   R 2    {\displaystyle R_{2}\ }   = V c c   R 2    − I b    R 1  R 2      {\displaystyle =V_{cc}{\frac {R_{2}}{}}-I_{b}{\frac {R_{1}R_{2}}{}}} 

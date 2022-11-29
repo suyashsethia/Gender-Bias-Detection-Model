@@ -1,1 +1,1 @@
-Good Perl practices require more complex programs to add the use strict; and use warnings; pragmas, leading into something like:
+क्वीन्सलैण्ड, ऑस्ट्रेलिया का एक राज्य है। इसकी राजधानी ब्रिस्बेन नगर है।

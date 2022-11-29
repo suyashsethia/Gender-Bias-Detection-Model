@@ -1,1 +1,0 @@
-A common solution to help stabilize the output device operating point is to include some emitter resistors, typically an ohm or so. Calculating the values of the circuit's resistors and capacitors is done based on the components employed and the intended use of the amplifier.

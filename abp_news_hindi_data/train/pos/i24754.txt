@@ -1,1 +1,0 @@
-  T =  1 2  a b sin ⁡ γ =  1 2  b c sin ⁡ α =  1 2  c a sin ⁡ β  {\displaystyle T={\frac {1}{2}}ab\sin \gamma ={\frac {1}{2}}bc\sin \alpha ={\frac {1}{2}}ca\sin \beta } 

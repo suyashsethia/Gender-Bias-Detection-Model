@@ -1,1 +1,0 @@
-Line 38: bar:मॉरिसन from:01/09/1994 till:01/01/1995 color:Drums- PlotData attribute 'bar' invalid.

@@ -1,1 +1,0 @@
-ये फलन निमनलिखित समीकरण के अन्न्य हल भी हैं-   f ″  = f,  {\displaystyle f''=f,} such that   f = 1, f ′  = 0,  {\displaystyle f=1,f'=0,} for the hyperbolic cosine, and   f = 0, f ′  = 1,  {\displaystyle f=0,f'=1,} for the hyperbolic sine.

@@ -1,1 +1,0 @@
-The developing CSS3 specification will also introduce HSL color space values to style sheets:

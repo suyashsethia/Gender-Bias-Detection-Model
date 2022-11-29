@@ -1,1 +1,0 @@
-The function f = cx is convex, for every साँचा:Mvar . Clearly x*x − f = x is never bounded from above as a function of साँचा:Mvar, unless x* − c = 0. Hence f* is defined on I* = {c} and f* = 0.

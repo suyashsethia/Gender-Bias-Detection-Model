@@ -1,1 +1,0 @@
-कभी-कभी इस रूपान्तर को    F   {\displaystyle {\mathcal {F}}} से भी प्रदर्शित किया जाता है। जैसे -   X =  F  { x }  {\displaystyle \mathbf {X} ={\mathcal {F}}\left\{\mathbf {x} \right\}} or    F    {\displaystyle {\mathcal {F}}\left} or    F  x  {\displaystyle {\mathcal {F}}\mathbf {x} } .

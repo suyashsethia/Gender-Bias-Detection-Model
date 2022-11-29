@@ -1,1 +1,0 @@
-The cis notation is convenient for math students whose knowledge of trigonometry and complex numbers permit this notation, but whose conceptual understanding doesn't yet permit the notation e ix. As students learn concepts that build on prior knowledge, it is important not to force them into levels of math they are not yet prepared for.

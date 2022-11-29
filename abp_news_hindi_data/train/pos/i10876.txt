@@ -1,1 +1,0 @@
-AAS : Two triangles are congruent if a pair of corresponding angles and a not-included side are equal, since the 3rd angle would have to be equal, and therefore the side would be included. This one is valid only in Euclidean geometry.

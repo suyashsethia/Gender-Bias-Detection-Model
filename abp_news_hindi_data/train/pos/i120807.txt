@@ -1,1 +1,0 @@
-  P   d y  d x  + Q = 0   {\displaystyle P{\frac {dy}{dx}}+Q=0\,\!} 

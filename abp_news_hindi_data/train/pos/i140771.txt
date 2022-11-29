@@ -1,1 +1,1 @@
-अनुवादित लेख अधिकांश संस्करणों में लेख के एक छोटे हिस्से का प्रतिनिधित्व करते हैं, क्योंकि लेखों के स्वचालित अनुवाद की अनुमति नहीं होती है। एक से अधिक भाषा में उपलब्ध लेख "इंटरविकी" लिंक पेश कर सकते हैं, जो अन्य संस्करणों के समकक्ष लेखों से सम्बंधित होते हैं।
+Different angular measures can be appropriate in different situations. This table shows some of the more common systems.Radians is the default angular measure and is the one you use if you use the exponential definitions. All angular measures are unitless.

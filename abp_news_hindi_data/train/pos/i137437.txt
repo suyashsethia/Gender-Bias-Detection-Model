@@ -1,1 +1,1 @@
-CSS 2, SVG and CSS 2.1 also allow web authors to use so-called system colors, which are color names whose values are taken from the operating system. This enables web authors to style their content in line with the operating system of the user agent. As of early 2004, it appears that the CSS3 color module will once again drop these values, marking them deprecated, but this may change.
+बैजनाथ,भारत के उत्तर प्रदेश की सोलहवीं विधानसभा सभा में विधायक रहे। 2012 उत्तर प्रदेश विधान सभा चुनाव में इन्होंने उत्तर प्रदेश की मुहम्‍मदाबाद गोहना विधान सभा निर्वाचन क्षेत्र से चुनाव जीता। 

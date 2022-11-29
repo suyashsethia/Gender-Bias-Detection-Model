@@ -1,1 +1,0 @@
-where Z denotes the partition function. The Saha equation can be seen as a restatement of the equilibrium condition for the chemical potentials:

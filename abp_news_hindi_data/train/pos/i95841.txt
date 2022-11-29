@@ -1,1 +1,0 @@
-It is common practice in the financial industry to use basis points to denote a rate change in a financial instrument, or the difference between two interest rates, including the yields of fixed-income securities.

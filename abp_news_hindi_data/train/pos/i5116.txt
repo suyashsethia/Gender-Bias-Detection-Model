@@ -1,1 +1,0 @@
-The fact that the differentiation of trigonometric functions results in linear combinations of the same two functions is of fundamental importance to many fields of mathematics, including differential equations and fourier transformations.

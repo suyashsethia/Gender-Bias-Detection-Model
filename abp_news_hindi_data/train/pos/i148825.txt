@@ -1,1 +1,0 @@
-"not " is the same as " and ".

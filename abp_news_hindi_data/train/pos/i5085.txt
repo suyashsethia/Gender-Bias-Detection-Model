@@ -1,1 +1,0 @@
-In some contexts, the cis notation may serve the pedagogical purpose of emphasizing that one has not yet proved that this is an exponential function. In doing trigonometry without complex numbers, one may prove the two identities

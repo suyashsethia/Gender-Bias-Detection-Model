@@ -1,1 +1,0 @@
-postal_code = 626 123vehicle_code_range = TN-67sex_ratio =

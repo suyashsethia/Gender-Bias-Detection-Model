@@ -1,1 +1,0 @@
-verified using the identity tan = )/sin. Having established these two limits, one can use the limit definition of the derivative and the addition theorems to show that sin′ = cos and cos′ = −sin. If the sine and cosine functions are defined by their Taylor series, then the derivatives can be found by differentiating the power series term-by-term.

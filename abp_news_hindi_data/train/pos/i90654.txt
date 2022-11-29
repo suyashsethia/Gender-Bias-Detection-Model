@@ -1,1 +1,0 @@
-The collision operator has to respect the conservation laws. Therefore the equilibirum distribution   f i  0   {\displaystyle f_{i}^{0}} must have the same conserved moments as the   f i   {\displaystyle f_{i}} .

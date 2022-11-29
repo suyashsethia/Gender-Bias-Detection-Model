@@ -1,1 +1,0 @@
-   I B  =   V B B  − 0.7 V  R B    {\displaystyle I_{B}={\frac {V_{BB}-0.7V}{R_{B}}}} 

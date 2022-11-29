@@ -1,1 +1,0 @@
-Let xi = tan, for i = 1, ..., n. Let ek be the kth-degree elementary symmetric polynomial in the variables xi, i = 1, ..., n, k = 0, ..., n. Then

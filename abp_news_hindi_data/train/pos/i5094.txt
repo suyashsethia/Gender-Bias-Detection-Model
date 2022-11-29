@@ -1,1 +1,0 @@
-For applications to special functions, the following infinite product formulæ for trigonometric functions are useful:

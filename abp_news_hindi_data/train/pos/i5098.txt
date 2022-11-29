@@ -1,1 +1,0 @@
-The Gudermannian function relates the circular and hyperbolic trigonometric functions without resorting to complex numbers; see that article for details.

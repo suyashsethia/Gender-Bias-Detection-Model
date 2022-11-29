@@ -1,1 +1,0 @@
-RS = Schlumberger resistance measured as "V/I" in Figure 

@@ -1,1 +1,0 @@
-  1 + tan 2  ⁡ θ = sec 2  ⁡ θ .  {\displaystyle 1+\tan ^{2}\theta =\sec ^{2}\theta .} 

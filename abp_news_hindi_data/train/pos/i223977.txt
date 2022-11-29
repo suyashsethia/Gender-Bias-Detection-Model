@@ -1,1 +1,1 @@
-फांसी लगाए जाने वाले कैदीओं की कोठडीओं का हिस्सा
+लुआ त्रुटि Module:Location_map में पंक्ति 389 पर: Minutes can only be provided with DMS degrees for longitude।

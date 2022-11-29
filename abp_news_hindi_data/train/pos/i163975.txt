@@ -1,1 +1,0 @@
-  20 I 1  +  I 2  =  55 s   {\displaystyle 20I_{1}+I_{2}={\frac {55}{s}}} 

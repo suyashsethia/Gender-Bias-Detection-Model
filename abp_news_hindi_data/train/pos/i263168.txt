@@ -1,1 +1,1 @@
-with     i ^ ,    j ^ ,    k ^   {\displaystyle {\hat {\mathbf {i} }},\ {\hat {\mathbf {j} }},\ {\hat {\mathbf {k} }}} unit vectors along the axis directions.
+केन्टिश प्लोवर 

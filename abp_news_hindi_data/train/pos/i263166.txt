@@ -1,1 +1,0 @@
-If a vector A = makes angles α, β, γ with an orthogonal set of x-, y- and z-axes, then:

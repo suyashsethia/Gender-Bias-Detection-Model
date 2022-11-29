@@ -1,1 +1,0 @@
-For a given transistor, Vbe does not vary significantly during use. As Vcc is of fixed value, on selection of Rb, the base current Ib is fixed. Therefore, this type is called fixed bias type of circuit.

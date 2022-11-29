@@ -1,1 +1,0 @@
-   a + b + 90 ∘  = 180 ∘  ⇒ a + b = 90 ∘  ⇒ a = 90 ∘  − b .   {\displaystyle {\displaystyle a+b+90^{\circ }=180^{\circ }\Rightarrow a+b=90^{\circ }\Rightarrow a=90^{\circ }-b.}} 

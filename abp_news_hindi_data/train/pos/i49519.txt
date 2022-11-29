@@ -1,1 +1,1 @@
-निर्देशांक: 28°02′N 73°02′E / 28.03°N 73.04°E / 28.03; 73.04
+Almost the exact same color names are used in .NET Framework, in the KnownColor and Color enumerations. The only color difference is DarkSeaGreen which is defined as 8F,BC,8B .

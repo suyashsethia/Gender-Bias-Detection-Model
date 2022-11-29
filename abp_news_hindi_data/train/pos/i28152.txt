@@ -1,1 +1,0 @@
-where R1 || R2 denotes the equivalent resistance of R1 and R2 connected in parallel.

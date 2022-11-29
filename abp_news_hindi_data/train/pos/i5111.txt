@@ -1,1 +1,0 @@
-In calculus the relations stated below require angles to be measured in radians; the relations would become more complicated if angles were measured in another unit such as degrees. If the trigonometric functions are defined in terms of geometry, their derivatives can be found by verifying two limits. The first is:

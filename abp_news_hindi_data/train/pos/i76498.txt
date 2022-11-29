@@ -1,1 +1,0 @@
-  P = lim Δ t → 0   Δ W  Δ t  = lim Δ t → 0  P  a v g    {\displaystyle P=\lim _{\Delta t\rightarrow 0}{\frac {\Delta W}{\Delta t}}=\lim _{\Delta t\rightarrow 0}P_{\mathrm {avg} }\,} 

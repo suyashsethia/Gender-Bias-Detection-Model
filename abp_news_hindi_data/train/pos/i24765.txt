@@ -1,1 +1,0 @@
-जहां    s =   a + b + c 2    {\displaystyle {\displaystyle s={\tfrac {a+b+c}{2}}}} त्रिभुज का अर्द्धपरिमाप है।

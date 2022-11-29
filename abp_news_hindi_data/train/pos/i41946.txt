@@ -1,1 +1,0 @@
-<div class="transborder" style="position:absolute;width:100px;line-height:0;

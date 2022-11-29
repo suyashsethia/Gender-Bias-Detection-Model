@@ -1,1 +1,1 @@
-A regular service transmitting RTTY marine meteorological information on LF is the German Meteorological Service . The DWD operates station DDH47 on 147.3 kHz using standard ITA-2 alphabet with a transmission speed of 50 baud and FSK modulation with 85 Hz shift.
+चारबाग स्टेशन के अतिरिक्त लखनऊ जिले में कई अन्य स्टेशन भी हैं:-

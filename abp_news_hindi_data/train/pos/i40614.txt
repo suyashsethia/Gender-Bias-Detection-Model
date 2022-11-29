@@ -1,1 +1,0 @@
-कोज्या सूत्र के अनुसार,   c 2  = a 2  + b 2  − 2 a b cos ⁡ C = a 2  + b 2  − 2 b  a 2  − h 2  ,  {\displaystyle c^{2}=a^{2}+b^{2}-2ab\cos C=a^{2}+b^{2}-2b{\sqrt {a^{2}-h^{2}}},} 

@@ -1,1 +1,0 @@
-  T =  1 4   2 −   {\displaystyle T={\frac {1}{4}}{\sqrt {2-}}} 

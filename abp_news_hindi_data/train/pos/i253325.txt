@@ -1,1 +1,1 @@
-अंतर्राष्ट्रीय न्यायालय के अभियोग दो तरह के होते है : विवादास्पद विषय तथा परामर्शी विचार।
+लुआ त्रुटि Module:Location_map में पंक्ति 389 पर: Minutes can only be provided with DMS degrees for longitude।

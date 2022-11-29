@@ -1,1 +1,0 @@
-उबण्टू अथवा लिनक्स प्रचालन तन्त्र में इसे निम्न विधि से संचालित करते हैंअनुबोधक> devnag latex_devnag.dnअनुबोधक> pdflatex latex_devnag.tex

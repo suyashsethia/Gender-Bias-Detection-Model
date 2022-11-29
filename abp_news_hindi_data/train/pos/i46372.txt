@@ -1,1 +1,0 @@
-  K =  1 2  a d ⋅ sin ⁡ A +  1 2  b c ⋅ sin ⁡ C .  {\displaystyle K={\tfrac {1}{2}}ad\cdot \sin {A}+{\tfrac {1}{2}}bc\cdot \sin {C}.} 

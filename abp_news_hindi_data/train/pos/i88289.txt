@@ -1,1 +1,1 @@
-अ InternetArchiveBot द्वारा संपादित किया गया था
+You must specify issue= and startpage= when using {{London Gazette}}. Available parameters:साँचा:London Gazette/doc/parameterlist

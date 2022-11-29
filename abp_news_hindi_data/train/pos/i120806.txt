@@ -1,1 +1,0 @@
-  d y = F  d x   {\displaystyle dy=F\,dx\,\!} 

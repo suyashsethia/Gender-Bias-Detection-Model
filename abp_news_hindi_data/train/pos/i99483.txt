@@ -1,1 +1,0 @@
-इस विधि में, किसी अनुक्रम   { a n  }  {\displaystyle \left\{a_{n}\right\}} के पदों की अन्य अनुक्रम   { b n  }  {\displaystyle \left\{b_{n}\right\}} के पदों से तुलना की जाती है। यदि,

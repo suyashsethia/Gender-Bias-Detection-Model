@@ -1,1 +1,0 @@
-1. "दि इंप्मीमेंटेशन ऑफ पर्ल 5 बनाम पर्ल 6". 2. http://www.enlightenedperl.org/

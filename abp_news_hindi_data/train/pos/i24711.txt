@@ -1,1 +1,0 @@
-   sin 2  ⁡  α 2  + sin 2  ⁡  β 2  + sin 2  ⁡  γ 2  + 2 sin ⁡  α 2  sin ⁡  β 2  sin ⁡  γ 2  = 1,  {\displaystyle \sin ^{2}{\frac {\alpha }{2}}+\sin ^{2}{\frac {\beta }{2}}+\sin ^{2}{\frac {\gamma }{2}}+2\sin {\frac {\alpha }{2}}\sin {\frac {\beta }{2}}\sin {\frac {\gamma }{2}}=1,} 

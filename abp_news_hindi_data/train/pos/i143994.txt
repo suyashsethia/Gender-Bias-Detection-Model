@@ -1,1 +1,0 @@
-   N 1  I 1  =  N 1  a   {\displaystyle N_{1}I_{1}={\frac {N_{1}}{a}}} 

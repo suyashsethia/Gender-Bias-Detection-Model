@@ -1,1 +1,0 @@
-For some purposes it is important to know that any linear combination of sine waves of the same period but different phase shifts is also a sine wave with the same period, but a different phase shift. In the case of a linear combination of a sine and cosine wave, we have

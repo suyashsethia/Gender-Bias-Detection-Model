@@ -1,1 +1,0 @@
-    x ± y = a ± b  ⇒  x + y = a + b    and   x − y = a − b    {\displaystyle {\begin{aligned}x\pm y=a\pm b&\Rightarrow \ x+y=a+b\\&{\mbox{and}}\ x-y=a-b\end{aligned}}}     x ± y = a ∓ b  ⇒  x + y = a − b    and   x − y = a + b    {\displaystyle {\begin{aligned}x\pm y=a\mp b&\Rightarrow \ x+y=a-b\\&{\mbox{and}}\ x-y=a+b\end{aligned}}} 

@@ -1,1 +1,0 @@
-The Cascading Style Sheets language defines the same number of named colors as the HTML 4 spec, namely the 16 listed previously.Additionally, CSS 2.1 adds the 'orange' color name to the list: 

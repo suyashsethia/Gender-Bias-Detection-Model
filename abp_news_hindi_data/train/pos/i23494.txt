@@ -1,1 +1,0 @@
-If you only have a fragment of a sine table:

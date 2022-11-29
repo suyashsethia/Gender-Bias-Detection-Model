@@ -1,1 +1,0 @@
-Some care is needed when picking the bounds. The integration above requires that −π/2 < θ < π/2, so θ going from 0 to π/6 is the only choice. If we had missed this restriction, we might have picked θ to go from π to 5π/6, which would give us the negative of the result.

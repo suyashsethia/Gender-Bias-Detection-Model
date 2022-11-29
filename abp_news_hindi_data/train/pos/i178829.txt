@@ -1,0 +1,1 @@
+If N = M, the solution is xy = C.

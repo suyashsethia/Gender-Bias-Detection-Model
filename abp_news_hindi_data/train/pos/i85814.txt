@@ -1,1 +1,1 @@
- प्रत्येक अधिनियम स्वीकृतिप्राप्ति की तिथि से चालू होता है, जब तक किसी अधिनियम में अन्य किसी तिथि का उल्लेख न हो।
+Particular integral yp: in general the method of variation of parameters, though for very simple r inspection may work.

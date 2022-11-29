@@ -1,1 +1,1 @@
- गुआंगशी · भीतरी मंगोलिया · निंगशिया · तिब्बत · शिंजियांग 
+endpoint The point where you actually stop a titration, usually because an indicator has changed color. This is different than the "equivalence point" because the indicator might not change colors at the exact instant that the solution is neutral.

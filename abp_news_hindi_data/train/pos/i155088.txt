@@ -1,1 +1,0 @@
-lattice The three-dimensional arrangement of atoms or ions in a crystal.

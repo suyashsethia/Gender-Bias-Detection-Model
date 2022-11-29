@@ -1,1 +1,1 @@
-एक बैल के मूर्ति
+लुआ त्रुटि Module:Location_map में पंक्ति 389 पर: Minutes can only be provided with DMS degrees for longitude।

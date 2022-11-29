@@ -1,1 +1,0 @@
-  Y =  1 / R + 1 /  + j ω C   {\displaystyle Y=\ 1/R+1/+j\omega C\,\!} 

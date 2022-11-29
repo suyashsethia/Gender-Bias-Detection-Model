@@ -1,1 +1,0 @@
-Perimeter =sum of all opposite side 

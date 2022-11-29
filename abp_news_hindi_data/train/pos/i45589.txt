@@ -1,1 +1,0 @@
-The classification depends upon the signature of the eigenvalues of the coefficient matrix ai,j..

@@ -1,1 +1,0 @@
-The Dirichlet kernel Dn is the function occurring on both sides of the next identity:

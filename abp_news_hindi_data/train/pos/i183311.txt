@@ -1,1 +1,0 @@
-such that s = 0 and c = 1.

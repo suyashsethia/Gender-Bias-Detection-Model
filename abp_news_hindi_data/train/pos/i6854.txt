@@ -1,1 +1,0 @@
-Symmetrical components are most commonly used for analysis of three-phase electrical power systems. If the phase quantities are expressed in phasor notation using complex numbers, a vector can be formed for the three phase quantities. For example, a vector for three phase voltages could be written as

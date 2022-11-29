@@ -1,1 +1,0 @@
-This program is designed to write a raw disk image to a removable device or backup a removable device to a raw image file.

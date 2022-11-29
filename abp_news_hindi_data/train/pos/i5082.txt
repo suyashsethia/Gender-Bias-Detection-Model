@@ -1,1 +1,0 @@
-This notation was more common in the post WWII era when typewriters were used to convey mathematical expressions.Superscripts are both offset vertically and smaller than 'cis' or 'exp'; hence, they can be problematic even for hand writing. For example e ix² versus cis versus exp. For many readers, cis is the clearest, easiest to read of the three.

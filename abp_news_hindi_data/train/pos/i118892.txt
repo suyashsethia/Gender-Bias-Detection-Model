@@ -1,1 +1,1 @@
-हुसंगा कायमगंज, फर्रुखाबाद, उत्तर प्रदेश स्थित एक गाँव है।
+लुआ त्रुटि Module:Location_map में पंक्ति 389 पर: Minutes can only be provided with DMS degrees for longitude।

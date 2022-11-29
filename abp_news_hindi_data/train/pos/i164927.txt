@@ -1,1 +1,0 @@
-एक परवलय बिन्दुओं का एक बिंदुपथ है, माना किसी बिन्दु   P  {\displaystyle P} से एक निश्चित बिन्दु   F  {\displaystyle F} से दूरी   | P F |  {\displaystyle |PF|}, उससे नियता   l  {\displaystyle l} तक की दूरी   | P l |  {\displaystyle |Pl|} के बराबर होती है। आमतौर पर निम्न प्रकार दर्शाया जाता है 

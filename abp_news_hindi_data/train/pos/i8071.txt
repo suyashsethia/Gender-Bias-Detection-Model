@@ -1,1 +1,0 @@
-  Z =  R + j ω L + 1 /    {\displaystyle Z=\ R+j\omega L+1/\,\!} 

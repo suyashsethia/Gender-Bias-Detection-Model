@@ -1,1 +1,0 @@
-Sum of sines and cosines with arguments in arithmetic progression:

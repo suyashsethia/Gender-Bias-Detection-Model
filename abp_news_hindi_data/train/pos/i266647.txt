@@ -1,0 +1,1 @@
+A 1,2-rearrangement is an organic reaction where a substituent moves from one atom to another atom in a chemical compound. In a 1,2 shift the movement involves two adjacent atoms but moves over larger distances are possible. Examples are the Wagner-Meerwein rearrangement:

@@ -1,1 +1,0 @@
-   b 21  =    I 2  U 1   |  I 1  = 0   b 22  =    I 2  I 1   |  U 1  = 0   {\displaystyle b_{21}=\left.{\frac {I_{2}}{U_{1}}}\right|_{I_{1}=0}\quad b_{22}=\left.{\frac {I_{2}}{I_{1}}}\right|_{U_{1}=0}} 

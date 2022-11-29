@@ -1,1 +1,0 @@
-The rest of the trigonometric functions can be differentiated using the above identities and the rules of derivative:

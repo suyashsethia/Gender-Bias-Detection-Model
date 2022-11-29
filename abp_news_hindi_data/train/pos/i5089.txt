@@ -1,1 +1,0 @@
-and observing that this identity for cis of a sum is simpler than the identities for sin and cos of a sum. Having proved this identity, one can challenge the students to recall which familiar sort of function satisfies this same functional equation

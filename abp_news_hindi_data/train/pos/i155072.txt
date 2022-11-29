@@ -1,1 +1,0 @@
-indicator A compound that turns different colors at different pH values. We generally like to have the color change at a pH of around seven because that's where the equivalence point of a titration is.

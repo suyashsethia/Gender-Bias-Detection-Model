@@ -1,1 +1,0 @@
-line spectrum A spectrum showing only certain wavelengths.

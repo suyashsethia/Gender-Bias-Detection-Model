@@ -1,1 +1,0 @@
-where the subscripts 0, 1, and 2 refer respectively to the zero, positive, and negative sequence components. The sequence components differ only by their phase angles, which are symmetrical and so are    2 3  π  {\displaystyle \scriptstyle {\frac {2}{3}}\pi } radians or 120°. Define the operator   α  {\displaystyle \scriptstyle \alpha } phasor vector forward by that angle.
