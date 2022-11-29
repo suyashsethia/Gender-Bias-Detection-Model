@@ -1,0 +1,1 @@
+   I 1  + 40 I 2  =  110 s   {\displaystyle I_{1}+40I_{2}={\frac {110}{s}}} 

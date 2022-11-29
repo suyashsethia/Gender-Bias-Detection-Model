@@ -1,0 +1,1 @@
+In this circuit the base voltage is given by:

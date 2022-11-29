@@ -1,0 +1,1 @@
+Timeline generation failed: 4 errors foundLine 8: id:Vocals value:gray legend:Vocals, guitar- Invalid attribute 'guitar' ignored.

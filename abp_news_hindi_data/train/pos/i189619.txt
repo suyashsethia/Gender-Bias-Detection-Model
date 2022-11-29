@@ -1,0 +1,1 @@
+In the United States, there are two standardized methods for measuring VOCs, one by the National Institute for Occupational Safety and Health and another by Occupational Safety and Health Administration . Each method uses a single component solvent; butanol and hexane cannot be sampled, however, on the same sample matrix using the NIOSH or OSHA method.

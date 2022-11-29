@@ -1,0 +1,1 @@
+और सामान्यतः, आधार   b  {\displaystyle b} निरूपण में,   F n   {\displaystyle F_{n}} में अंकों की संख्या   n  log b  ⁡ φ  {\displaystyle n\,\log _{b}\varphi } के प्रति उपगामी है.

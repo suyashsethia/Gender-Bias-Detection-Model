@@ -1,0 +1,1 @@
+   P 1   Q 1  + P 2   Q 2    d y  d x  = 0   {\displaystyle P_{1}Q_{1}+P_{2}Q_{2}\,{\frac {dy}{dx}}=0\,\!} 

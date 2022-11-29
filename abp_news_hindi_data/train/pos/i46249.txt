@@ -1,0 +1,1 @@
+   y 21  =    I 2  U 1   |  U 2  = 0   y 22  =    I 2  U 2   |  U 1  = 0   {\displaystyle y_{21}=\left.{\frac {I_{2}}{U_{1}}}\right|_{U_{2}=0}\quad y_{22}=\left.{\frac {I_{2}}{U_{2}}}\right|_{U_{1}=0}} 

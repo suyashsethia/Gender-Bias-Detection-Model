@@ -1,0 +1,1 @@
+  f = lim s → ∞  s F   {\displaystyle f=\lim _{s\to \infty }{sF}} 

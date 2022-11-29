@@ -1,0 +1,1 @@
+अतः   U 2  = I ⋅ R 2   {\displaystyle U_{2}=I\cdot R_{2}} et   I = U  1  R 1  + R 2    {\displaystyle I=U{\frac {1}{R_{1}+R_{2}}}} 

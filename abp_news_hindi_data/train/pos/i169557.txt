@@ -1,0 +1,1 @@
+1 French Land Register data, which excludes lakes, ponds, glaciers > 1 km² and river estuaries.

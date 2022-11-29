@@ -1,0 +1,1 @@
+To avoid the confusion caused by the ambiguity of sin−1, the reciprocals and inverses of trigonometric functions are often displayed as in this table. In representing the cosecant function, the longer form 'cosec' is sometimes used in place of 'csc'.

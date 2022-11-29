@@ -1,0 +1,1 @@
+     V C E   = V C C  − R C  ∗ I C     = 12 − 0, 86 m A ∗ 2 K Ω    = 10, 28 V    {\displaystyle {\begin{aligned}V_{CE}&=V_{CC}-R_{C}*I_{C}\\&=12-0,86\,mA*2K\Omega \\&=10,28V\end{aligned}}} 

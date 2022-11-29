@@ -1,0 +1,1 @@
+  q =    − 2 a b c d  a d + b c   .  {\displaystyle q={\sqrt {\frac {-2abcd}{ad+bc}}}.} 

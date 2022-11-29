@@ -1,0 +1,1 @@
+The SSA condition proves congruence if the angle is obtuse or right. In the case of the right angle condition), we can calculate the third side and fall back on SSS.

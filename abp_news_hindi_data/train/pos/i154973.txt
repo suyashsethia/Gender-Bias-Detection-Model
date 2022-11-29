@@ -1,0 +1,1 @@
+bidentate ligand A ligand that can attach twice to a metal ion.

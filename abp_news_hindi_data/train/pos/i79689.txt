@@ -1,0 +1,1 @@
+has gradient p − 2Ax and Hessian −2A, which is negative; hence the stationary point x = A−1p/2 is a maximum. We have X* = Rn, and

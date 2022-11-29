@@ -1,0 +1,1 @@
+परिबद्ध है, जहाँ   Δ u n   {\displaystyle \Delta u_{n}} अग्र अंतर है। तब श्रेणी   ∑ n = 0  ∞  a n   {\displaystyle \sum _{n=0}^{\infty }a_{n}} अभिसारी होगी यदि श्रेणी

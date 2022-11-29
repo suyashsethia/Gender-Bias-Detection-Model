@@ -1,0 +1,1 @@
+   β i  =   C o v   V a r    {\displaystyle \beta _{i}={\frac {\mathrm {Cov} }{\mathrm {Var} }}} भी लिख सकते हैं।

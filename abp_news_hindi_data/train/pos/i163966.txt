@@ -1,0 +1,1 @@
+  2  d i 2   d t  + 10 i 2  + 40 i = 110  {\displaystyle 2{di_{2} \over dt}+10i_{2}+40i=110}    

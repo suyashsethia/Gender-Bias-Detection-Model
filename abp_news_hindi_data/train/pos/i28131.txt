@@ -1,0 +1,1 @@
+उपयोग:The negative feedback also increases the input impedance of the amplifier as seen from the base, which can be advantageous.Due to the gain reduction from feedback, this biasing form is used only when the trade-off for stability is warranted.

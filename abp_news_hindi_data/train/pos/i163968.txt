@@ -1,0 +1,1 @@
+    d i 1   d t  + 45 i 1  + 40 i 2  = 110  {\displaystyle {di_{1} \over dt}+45i_{1}+40i_{2}=110} 

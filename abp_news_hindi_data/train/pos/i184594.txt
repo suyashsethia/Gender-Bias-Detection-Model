@@ -1,0 +1,1 @@
+जहाँ   x ′ =  d x  d t ,  x ″ =   d 2  x  d t 2  ,  y ′ =  d y  d t ,  y ″ =   d 2  y  d t 2    {\displaystyle x'={\frac {dx}{dt}},\quad x''={\frac {d^{2}x}{dt^{2}}},\quad y'={\frac {dy}{dt}},\quad y''={\frac {d^{2}y}{dt^{2}}}} .

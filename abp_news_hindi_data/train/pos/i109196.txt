@@ -1,0 +1,1 @@
+At number of places which are filled with equal nymbers of digits, place 1, 2, 3, 4 ... in increasing order. The product of these digits is the required number of permutations.

@@ -1,0 +1,1 @@
+    d y  d x  + P y = Q   {\displaystyle {\frac {dy}{dx}}+Py=Q\,\!} 

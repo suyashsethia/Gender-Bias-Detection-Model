@@ -1,0 +1,1 @@
+Note that in the table below, each color code listed is a short-hand for the RGB value; for example, code 609 is equivalent to RGB code 660099.

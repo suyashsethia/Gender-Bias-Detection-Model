@@ -1,0 +1,1 @@
+When the trigonometric functions are reflected from certain values of   θ  {\displaystyle \theta }, The result is often one of the other trigonometric functions. This leads to the following identities:

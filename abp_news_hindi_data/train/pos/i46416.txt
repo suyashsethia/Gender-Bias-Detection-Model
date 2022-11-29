@@ -1,0 +1,1 @@
+  p =    − 2 a b c d  a b + c d    {\displaystyle p={\sqrt {\frac {-2abcd}{ab+cd}}}} 

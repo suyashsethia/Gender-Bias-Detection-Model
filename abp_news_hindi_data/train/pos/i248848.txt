@@ -1,0 +1,1 @@
+called state vector, and is called output vector, u is called input vector, A is the parent of states, B is the input matrix, C is the output matrix and D 

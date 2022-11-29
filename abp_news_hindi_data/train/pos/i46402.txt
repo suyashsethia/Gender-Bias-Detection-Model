@@ -1,0 +1,1 @@
+  K =  1 2   |  x 1  y 2  − x 2  y 1  | .  {\displaystyle K={\tfrac {1}{2}}|x_{1}y_{2}-x_{2}y_{1}|.} 

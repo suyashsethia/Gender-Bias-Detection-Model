@@ -1,0 +1,1 @@
+The Wenner four-pin method, as shown in figure above, is the most commonly used technique for soil resistivity measurements.Using the Wenner method, the apparent soil resistivity value is:

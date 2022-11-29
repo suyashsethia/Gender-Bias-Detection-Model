@@ -1,0 +1,1 @@
+Similarly, if the transistor is replaced by another, there may be a change in Ic . By similar process as above, the change is negated and operating point kept stable.

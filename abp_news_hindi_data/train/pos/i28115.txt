@@ -1,0 +1,1 @@
+The common-emitter current gain of a transistor is an important parameter in circuit design, and is specified on the data sheet for a particular transistor. It is denoted as β on this page.

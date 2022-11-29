@@ -1,0 +1,1 @@
+     =  1  − 800        {\displaystyle {\begin{bmatrix}I_{1}\\I_{2}\end{bmatrix}}={\frac {1}{-800}}{\begin{bmatrix}&-40\\-20&\end{bmatrix}}{\begin{bmatrix}110/s\\55/s\end{bmatrix}}} 

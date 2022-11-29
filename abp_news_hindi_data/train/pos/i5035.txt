@@ -1,0 +1,1 @@
+Different angular measures can be appropriate in different situations. This table shows some of the more common systems.Radians is the default angular measure and is the one you use if you use the exponential definitions. All angular measures are unitless.

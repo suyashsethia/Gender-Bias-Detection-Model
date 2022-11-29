@@ -1,0 +1,1 @@
+One may check involutivity: of course x*x − f* is always bounded as a function of x* ∈ {c}, hence I ** = R. Then, for all साँचा:Mvar one has 

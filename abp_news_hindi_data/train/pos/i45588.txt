@@ -1,0 +1,1 @@
+If there are n independent variables x1, x2, ..., xn, a general linear partial differential equation of second order has the form

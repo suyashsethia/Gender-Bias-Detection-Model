@@ -1,0 +1,1 @@
+   cos 2  ⁡ α + cos 2  ⁡ β + cos 2  ⁡ γ + 2 cos ⁡ cos ⁡ cos ⁡ = 1,  {\displaystyle \cos ^{2}\alpha +\cos ^{2}\beta +\cos ^{2}\gamma +2\cos\cos\cos=1,} 

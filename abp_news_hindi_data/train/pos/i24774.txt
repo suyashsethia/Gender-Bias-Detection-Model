@@ -1,0 +1,1 @@
+   1 2  |  A B × A C  | .  {\displaystyle {\frac {1}{2}}|\mathbf {AB} \times \mathbf {AC} |.} 

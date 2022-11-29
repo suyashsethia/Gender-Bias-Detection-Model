@@ -1,0 +1,1 @@
+Line 32: bar:Cantrell from:01/01/1987 till:04/19/2002 color:Guitars- PlotData invalid. Attribute 'color' has unknown color 'guitars'.

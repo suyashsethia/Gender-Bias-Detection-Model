@@ -1,0 +1,1 @@
+Frequencies from 216 to 450 MHz were sometimes called P-band: Previous, since early British Radar used this band but later switched to higher frequencies.

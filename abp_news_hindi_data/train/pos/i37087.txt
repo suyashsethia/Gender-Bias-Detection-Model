@@ -1,0 +1,1 @@
+There are n mass-balance equations in n unknown free concentrations. This constitutes a set of non-linear equations that must be solved by a method of successive approximations. The most commonly-used method is the Newton-Raphson method, which has been the subject of numerous publications. Some general computer programs are listed here.

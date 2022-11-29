@@ -1,0 +1,1 @@
+Since αj are the solutions of the polynomial of degree n:   ∏ j = 1  n   = 0   {\displaystyle \prod _{j=1}^{n}\left=0\,\!}, then:

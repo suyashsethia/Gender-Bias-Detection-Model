@@ -1,0 +1,1 @@
+Good Perl practices require more complex programs to add the use strict; and use warnings; pragmas, leading into something like:

@@ -1,0 +1,1 @@
+   I 1  =  1  s 2  + 70 s + 325    −  2200 s   )  =  1       {\displaystyle I_{1}={\frac {1}{s^{2}+70s+325}}{\biggl -{\frac {2200}{s}}{\biggr )}={\frac {1}{}}{\biggl }} 

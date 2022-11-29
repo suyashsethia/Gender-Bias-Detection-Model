@@ -1,0 +1,1 @@
+    F   = ∫ y  μ M  d λ + ∫ x  μ N  d λ    + Y + X = C     {\displaystyle {\begin{aligned}F&=\int ^{y}\mu M\,d\lambda +\int ^{x}\mu N\,d\lambda \\&+Y+X=C\\\end{aligned}}\,\!} 

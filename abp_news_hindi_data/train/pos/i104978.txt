@@ -1,0 +1,1 @@
+In the Schlumberger method the distance between the voltages probe is a and the distances from voltages probe and currents probe are c ।

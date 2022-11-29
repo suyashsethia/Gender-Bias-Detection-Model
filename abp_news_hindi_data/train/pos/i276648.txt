@@ -1,0 +1,1 @@
+   U  E   = − W  r  r e f  → r  = − ∫   r   r e f    r  q E  ⋅ d  r ′   {\displaystyle U_{\mathrm {E} }=-W_{r_{\rm {ref}}\rightarrow r}=-\int _{{\mathbf {r} }_{\rm {ref}}}^{\mathbf {r} }q\mathbf {E} \cdot \mathrm {d} \mathbf {r'} } ,

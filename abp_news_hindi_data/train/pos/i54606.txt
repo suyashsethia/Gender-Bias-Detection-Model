@@ -1,0 +1,1 @@
+where:    n  12   {\displaystyle \mathbf {n} _{12}} is normal vector from medium 1 to medium 2.   ρ s   {\displaystyle \rho _{s}} is the surface charge between the media.

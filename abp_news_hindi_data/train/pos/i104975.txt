@@ -1,0 +1,1 @@
+b = depth of the electrodes 

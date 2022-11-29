@@ -1,0 +1,1 @@
+Rarely used today, the versine, coversine, haversine, and exsecant have been defined as below and used in navigation, for example the haversine formula was used to calculate the distance between two points on a sphere.

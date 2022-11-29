@@ -1,0 +1,1 @@
+    d y  d x  = F   {\displaystyle {\frac {dy}{dx}}=F\,\!} 

@@ -1,0 +1,1 @@
+  R =  λ Δ λ   {\displaystyle R={\lambda \over \Delta \lambda }} 

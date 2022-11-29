@@ -1,0 +1,1 @@
+The collision operator is often approximated by a BGK collision operator:

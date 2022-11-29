@@ -1,0 +1,1 @@
+Though at first glance this notation is redundant, being equivalent to eix, its use is rooted in several advantages.

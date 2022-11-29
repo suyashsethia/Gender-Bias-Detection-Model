@@ -1,0 +1,1 @@
+सुतीक्ष्ण समुच्चयों    {\displaystyle } और    {\displaystyle } पर प्रतिचित्रण   X  {\displaystyle X} से   Y  {\displaystyle Y} में परिभाषित फलन हैं जो एक से अन्य में आधार बिन्दु का प्रतिचित्रण करते हैं। उदाहरण के लिए   f : X → Y  {\displaystyle f:X\to Y} इस प्रकार है कि   f = y 0   {\displaystyle f=y_{0}} तो इसे निम्न रूप में प्रदर्शित किया जाता है:

@@ -1,0 +1,1 @@
+   ∑ k = n  n + 9  F k  = 11 F n + 6   {\displaystyle \sum _{k=n}^{n+9}F_{k}=11F_{n+6}} 

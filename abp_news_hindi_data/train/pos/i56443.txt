@@ -1,0 +1,1 @@
+Line 11: id:Guitar value:green legend:Lead guitar- Invalid attribute 'guitar' ignored.

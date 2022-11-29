@@ -1,0 +1,1 @@
+For x* fixed, x*x − f is continuous on साँचा:Mvar compact, hence it always takes a finite maximum on it; it follows that I* = R. The stationary point at x = x*/2 is in the domain if and only if 4 ≤ x* ≤ 6, otherwise the maximum is taken either at x = 2, or x = 3. It follows that

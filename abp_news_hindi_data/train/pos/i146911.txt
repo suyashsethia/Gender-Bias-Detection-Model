@@ -1,0 +1,1 @@
+A pericyclic reaction is a type of reaction with multiple carbon-carbon bond making and breaking wherein the transition state of the molecule has a cyclic geometry, and the reaction progresses in a concerted fashion. Examples are hydride shifts

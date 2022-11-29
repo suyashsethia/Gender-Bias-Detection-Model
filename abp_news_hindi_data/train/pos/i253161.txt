@@ -1,0 +1,1 @@
+In 2004, नोकिया began offering their own SSL VPN appliances based on IP Security Platforms and the pre-hardened नोकिया IPSO operating system. Client integrity scanning and endpoint security technology was licensed from Positive Networks.

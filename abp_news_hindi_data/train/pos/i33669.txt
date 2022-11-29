@@ -1,0 +1,1 @@
+Line 29: प्लॉटडाटा =- Command '' unknown.Line 30: width:10 textcolor:black align:left anchor:from shift:- New command expected instead of data line . Data line ignored.

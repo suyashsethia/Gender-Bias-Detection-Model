@@ -1,0 +1,1 @@
+  f = lim s → 0  s F   {\displaystyle f=\lim _{s\to 0}{sF}} 

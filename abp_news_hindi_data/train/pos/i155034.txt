@@ -1,0 +1,1 @@
+entropy A measurement of the randomness in a system.

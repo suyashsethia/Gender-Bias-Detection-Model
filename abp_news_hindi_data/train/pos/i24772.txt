@@ -1,0 +1,1 @@
+   |  A B × A C  |,  {\displaystyle |\mathbf {AB} \times \mathbf {AC} |,} 

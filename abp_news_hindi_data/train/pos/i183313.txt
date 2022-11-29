@@ -1,0 +1,1 @@
+Hyperbolic functions may also be deduced from trigonometric functions with complex arguments:

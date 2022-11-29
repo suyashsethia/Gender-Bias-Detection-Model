@@ -1,0 +1,1 @@
+   {  ∑  F  e x t  = 0   ∑  M  e x t  = 0     {\displaystyle {\begin{cases}\sum \mathbf {F} ^{ext}=0\\\sum \mathbf {M} ^{ext}=0\end{cases}}} 

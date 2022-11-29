@@ -1,0 +1,1 @@
+acid dissociation constant  This is equal to the ratio of the concentrations of an acid's conjugate base and the acid present when a weak acid dissociates in water. That is, if you have a solution of Acid X where the concentration of the conjugate base is 0.5 M and the concentration of the acid is 10 M, the acid dissociation constant is 0.5/10 = 0.05.

@@ -1,0 +1,1 @@
+If Rb is small enough, base voltage will be approximately zero. Therefore, emitter current is,

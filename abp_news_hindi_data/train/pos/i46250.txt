@@ -1,0 +1,1 @@
+   z 21  =    U 2  I 1   |  I 2  = 0   z 22  =    U 2  I 2   |  I 1  = 0   {\displaystyle z_{21}=\left.{\frac {U_{2}}{I_{1}}}\right|_{I_{2}=0}\quad z_{22}=\left.{\frac {U_{2}}{I_{2}}}\right|_{I_{1}=0}} 

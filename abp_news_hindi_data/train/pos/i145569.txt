@@ -1,0 +1,1 @@
+गतिक दाब के लिये सूत्र:     p =  1 2   ρ ⋅ v 2   {\displaystyle p={\frac {1}{2}}\ \rho \cdot v^{2}\,}    

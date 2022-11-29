@@ -1,0 +1,1 @@
+The convolution of any integrable function of period 2π with the Dirichlet kernel coincides with the function's nth-degree Fourier approximation. The same holds for any measure or generalized function.

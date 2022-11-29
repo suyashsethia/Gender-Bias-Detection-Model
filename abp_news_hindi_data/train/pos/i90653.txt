@@ -1,0 +1,1 @@
+For the popular isothermal lattice Boltzmann methods these are the only conserved quantities. Thermal models also conserve energy and therefore have an additional conserved quantity:

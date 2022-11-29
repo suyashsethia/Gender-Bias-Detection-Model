@@ -1,0 +1,1 @@
+All these methods are used to calculate physical properties of the modeled systems. इन सभी तरीकों के लिए मॉडलिंग प्रणालियों के भौतिक गुणों की गणना किया जाता है। Computational Physics also encompasses the tuning of the software/hardware structure to solve the problems . कम्प्यूटेशनल भौतिकी भी / हार्डवेयर के लिए .

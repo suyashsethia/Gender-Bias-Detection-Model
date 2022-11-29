@@ -1,0 +1,1 @@
+   H = { P ∣ |  | P F 2  | − | P F 1  |  | = 2 a }  .   {\displaystyle {\displaystyle H=\{P\mid ||PF_{2}|-|PF_{1}||=2a\}\ .}} 

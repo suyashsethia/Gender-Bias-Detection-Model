@@ -1,0 +1,1 @@
+चतुर्भुज   A B C D  {\displaystyle ABCD} में, यदि X और Y, क्रमशः B और D से विकर्ण AC = p पर डाले गए अभिलम्बों के पाद हों, जहाँ   a = A B, b = B C, c = C D, d = D A  {\displaystyle a=AB,b=BC,c=CD,d=DA}, तब

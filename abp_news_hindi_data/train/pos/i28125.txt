@@ -1,0 +1,1 @@
+From Ohm's law, the base current   I b  = V  R  b   /  R b   {\displaystyle I_{\text{b}}=V_{{\text{R}}_{\text{b}}}/R_{\text{b}}}, and so

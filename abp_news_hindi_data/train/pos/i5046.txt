@@ -1,0 +1,1 @@
+If only finitely many of the terms θi are nonzero, then only finitely many of the terms on the right side will be nonzero because sine factors will vanish, and in each term, all but finitely many of the cosine factors will be unity.

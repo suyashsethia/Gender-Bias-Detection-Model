@@ -1,0 +1,1 @@
+Then the question is: what is the base b? The definition of cis and the local behavior of sin and cos near zero suggest that

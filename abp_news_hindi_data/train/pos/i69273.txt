@@ -1,0 +1,1 @@
+In the case where only one level of ionization is important, we have   n 1  = n e   {\displaystyle n_{1}=n_{e}} and defining the total density n as   n = n 0  + n 1   {\displaystyle n=n_{0}+n_{1}}, the Saha equation simplifies to:

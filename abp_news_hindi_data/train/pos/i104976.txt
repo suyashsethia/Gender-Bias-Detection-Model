@@ -1,0 +1,1 @@
+RW = Wenner resistance measured as "V/I" in Figure If b is small compared to a, as is the case of probes penetrating the ground only for a short distance, the previous equation can be reduced to:

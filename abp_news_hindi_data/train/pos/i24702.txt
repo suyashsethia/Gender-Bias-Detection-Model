@@ -1,0 +1,1 @@
+  b = a ×  3  .  {\displaystyle b=a\times {\sqrt {3}}.} 

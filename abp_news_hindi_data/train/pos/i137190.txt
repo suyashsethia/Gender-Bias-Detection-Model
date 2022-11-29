@@ -1,0 +1,1 @@
+Qt GNU LGPL v. 2.1,Qt Commercial

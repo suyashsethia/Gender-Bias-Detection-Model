@@ -1,0 +1,1 @@
+  p =  a 2  + b 2  − 2 a b cos ⁡ B  =  c 2  + d 2  − 2 c d cos ⁡ D   {\displaystyle p={\sqrt {a^{2}+b^{2}-2ab\cos {B}}}={\sqrt {c^{2}+d^{2}-2cd\cos {D}}}} 

@@ -1,0 +1,1 @@
+This new series is the same as the original, except that the first term is missing. Subtracting the new series s from the original series s cancels every term in the original but the first,

@@ -1,0 +1,1 @@
+From the half-angle formula   tan ⁡  θ 2  =  sin ⁡ θ  1 + cos ⁡ θ   {\displaystyle \tan {\frac {\theta }{2}}={\frac {\sin \theta }{1+\cos \theta }}}, we get:

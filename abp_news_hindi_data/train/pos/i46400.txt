@@ -1,0 +1,1 @@
+  K =  1 2   |  A C × B D  |,  {\displaystyle K={\tfrac {1}{2}}|\mathbf {AC} \times \mathbf {BD} |,} 

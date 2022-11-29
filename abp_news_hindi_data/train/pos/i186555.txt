@@ -1,0 +1,1 @@
+यह फार्मूला क्रिटिकल पलायन वेग   v  {\displaystyle v} को   M  {\displaystyle M} और   r  {\displaystyle r} के सन्दर्भ में दर्शाता है। लेकिन यह फार्मूला यह भी कहता है कि   v  {\displaystyle v} और   M  {\displaystyle M} की प्रत्येक वेल्यू के लिए,   r  {\displaystyle r} की एक क्रिटिकल वेल्यू होती है ताकि   v  {\displaystyle v} गति वाला एक कण भागने मात्र में सफल रहे:

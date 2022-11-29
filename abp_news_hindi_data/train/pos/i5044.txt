@@ -1,0 +1,1 @@
+where "|A| = k" means the index A runs through the set of all subsets of size k of the set { 1, 2, 3, ... }. 

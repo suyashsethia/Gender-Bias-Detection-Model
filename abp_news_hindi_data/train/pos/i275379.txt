@@ -1,0 +1,1 @@
+For current RGB display systems for PC's, see the 16-bit RGB and 24-bit RGB for HighColor and TrueColor modes.

@@ -1,0 +1,1 @@
+Note: An "active user" is defined as a user who has interacted with the community in the last 30 days while logged in. This metric is different from monthly unique visitors, which includes unregistered readers who are only consumers and not creators of content. See also monthly active users.

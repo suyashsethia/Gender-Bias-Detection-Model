@@ -1,0 +1,1 @@
+Let f = cx2 defined on R, where c > 0 is a fixed constant.

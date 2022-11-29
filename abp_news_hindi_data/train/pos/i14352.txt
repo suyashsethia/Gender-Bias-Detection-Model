@@ -1,0 +1,1 @@
+सम्बन्ध   ⊆  {\displaystyle \subseteq } के लिए फलन    P   {\displaystyle {\mathcal {P}}} आंशिक क्रमित हो तो, सभी   A, B, C ⊆ X  {\displaystyle A,B,C\subseteq X} के लिए, :

@@ -1,0 +1,1 @@
+  y M + x N   d y  d x  = 0   {\displaystyle yM+xN\,{\frac {dy}{dx}}=0\,\!} 

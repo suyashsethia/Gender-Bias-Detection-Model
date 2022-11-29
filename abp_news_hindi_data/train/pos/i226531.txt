@@ -1,0 +1,1 @@
+CCITT, the predecessor of the ITU Telecommunication Standardization Sector, developed the first formal list of telephone country codes. This list was included in the 1964 CCITT Blue Book, among other international telecommunication recommendations, which would eventually become ITU-T recommendation E.164.

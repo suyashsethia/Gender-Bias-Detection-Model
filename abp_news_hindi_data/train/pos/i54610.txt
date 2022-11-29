@@ -1,0 +1,1 @@
+where:    n  12   {\displaystyle \mathbf {n} _{12}} is normal vector from medium 1 to medium 2.   j  s   {\displaystyle \mathbf {j} _{s}} is the surface current density between the two media.

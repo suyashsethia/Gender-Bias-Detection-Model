@@ -1,0 +1,1 @@
+सूत्र रूप में -   {   v  =  0   ω  =  0   ∑ F  =  0   ∑ M  =  0     {\displaystyle \left\{{\begin{matrix}\mathbf {v} &=&0\\{\boldsymbol {\omega }}&=&0\\\sum \mathbf {F} &=&0\\\sum \mathbf {M} &=&0\end{matrix}}\right.} 

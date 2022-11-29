@@ -1,0 +1,1 @@
+किसी संतुलित तीन-फेजी प्रणाली द्वारा दी गयी विद्युत शक्ति =   P =  3  ⋅ U I ⋅ cos ⁡ φ  {\displaystyle P={\sqrt {3}}\cdot UI\cdot \cos \varphi } जहाँ 

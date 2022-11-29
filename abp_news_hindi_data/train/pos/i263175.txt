@@ -1,0 +1,1 @@
+Some of the following algebraic relations refer to the dot product and the cross product of vectors. These relations can be found in a variety of sources, for example, see Albright.

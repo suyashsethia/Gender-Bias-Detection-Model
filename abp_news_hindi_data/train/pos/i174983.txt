@@ -1,0 +1,1 @@
+For a definite integral, one must figure out how the bounds of integration change. For example, as x goes from 0 to a/2, then sin goes from 0 to 1/2, so θ goes from 0 to π/6. Then we have

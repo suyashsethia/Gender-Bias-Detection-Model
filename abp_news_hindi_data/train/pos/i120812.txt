@@ -1,0 +1,1 @@
+  ln ⁡ = ∫ x y   N  d λ  λ     {\displaystyle \ln=\int ^{xy}{\frac {N\,d\lambda }{\lambda }}\,\!} 

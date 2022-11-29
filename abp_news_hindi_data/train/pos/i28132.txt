@@ -1,0 +1,1 @@
+The fixed bias circuit is modified by attaching an external resistor to the emitter. This resistor introduces negative feedback that stabilizes the Q-point. From Kirchhoff's voltage law, the voltage across the base resistor is

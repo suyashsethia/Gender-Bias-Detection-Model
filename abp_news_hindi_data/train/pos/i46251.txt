@@ -1,0 +1,1 @@
+   a 21  =    I 1  U 2   |  I 2  = 0   a 22  =    I 1  I 2   |  U 2  = 0   {\displaystyle a_{21}=\left.{\frac {I_{1}}{U_{2}}}\right|_{I_{2}=0}\quad a_{22}=\left.{\frac {I_{1}}{I_{2}}}\right|_{U_{2}=0}} 

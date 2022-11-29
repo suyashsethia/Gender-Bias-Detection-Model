@@ -1,0 +1,1 @@
+  T d S = P d V + n V d P  {\displaystyle TdS=PdV+nVdP\,} 

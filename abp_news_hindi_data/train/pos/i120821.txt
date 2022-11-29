@@ -1,0 +1,1 @@
+    ∂  ∂ x  =  ∂  ∂ y    {\displaystyle {\frac {\partial }{\partial x}}={\frac {\partial }{\partial y}}\,\!} 

@@ -1,0 +1,1 @@
+  X Y =   |  a 2  + c 2  − b 2  − d 2  |  2 p  .  {\displaystyle XY={\frac {|a^{2}+c^{2}-b^{2}-d^{2}|}{2p}}.} 

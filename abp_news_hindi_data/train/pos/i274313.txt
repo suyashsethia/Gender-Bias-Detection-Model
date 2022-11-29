@@ -1,0 +1,1 @@
+We can prove that the geometric series converges using the sum formula for a geometric progression:

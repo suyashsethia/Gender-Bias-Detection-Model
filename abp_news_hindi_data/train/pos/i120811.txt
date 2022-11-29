@@ -1,0 +1,1 @@
+  y M  d x + x N  d y = 0   {\displaystyle yM\,dx+xN\,dy=0\,\!} 

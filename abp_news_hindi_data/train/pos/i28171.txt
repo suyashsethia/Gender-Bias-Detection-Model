@@ -1,0 +1,1 @@
+   I B  =  5 V − 0.7 V  500 k Ω  = 8, 6 μ A  {\displaystyle I_{B}={\frac {5V-0.7V}{500k\Omega }}=8,6\mu A} 

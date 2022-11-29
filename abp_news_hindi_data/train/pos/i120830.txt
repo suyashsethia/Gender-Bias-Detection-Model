@@ -1,0 +1,1 @@
+   y c  =  e − b x / 2    {\displaystyle y_{c}=e^{-bx/2}\,\!} 

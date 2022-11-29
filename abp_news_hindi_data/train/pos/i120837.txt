@@ -1,0 +1,1 @@
+   y c  = ∑ j = 1  n  C j  e  α j  x    {\displaystyle y_{c}=\sum _{j=1}^{n}C_{j}e^{\alpha _{j}x}\,\!} 

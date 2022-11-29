@@ -1,0 +1,1 @@
+These 16 were also specified as sRGB and included in the HTML 3.0 specification which noted "These colors were originally picked as being the standard 16 colors supported with the Windows VGA palette."

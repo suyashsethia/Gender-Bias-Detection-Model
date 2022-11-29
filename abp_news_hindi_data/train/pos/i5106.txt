@@ -1,0 +1,1 @@
+An efficient way to compute π is based on the following identity without variables, due to Machin:

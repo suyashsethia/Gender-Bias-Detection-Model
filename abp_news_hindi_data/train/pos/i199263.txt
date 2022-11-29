@@ -1,0 +1,1 @@
+Components that use more than one type of passive component

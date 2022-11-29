@@ -1,0 +1,1 @@
+This type can only be used when a split power supply is available.

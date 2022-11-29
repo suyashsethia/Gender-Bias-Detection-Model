@@ -1,0 +1,1 @@
+precision A measurement of how repeatable a measurement is. The more significant figures, the more precise the measurement.

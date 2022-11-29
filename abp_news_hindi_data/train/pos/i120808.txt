@@ -1,0 +1,1 @@
+  P  d y + Q  d x = 0   {\displaystyle P\,dy+Q\,dx=0\,\!} 

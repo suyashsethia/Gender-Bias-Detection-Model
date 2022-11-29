@@ -1,0 +1,1 @@
+अर्थात् पूर्णांक   N  {\displaystyle N} निकालो जहाँ   N = 8 x + 5 = 9 y + 4 = 7 z + 1  {\displaystyle N=8x+5=9y+4=7z+1} । इसे हल करने पर   N  {\displaystyle N} का मान   85  {\displaystyle 85} आता है। 

@@ -1,0 +1,1 @@
+    V 1  V 2   =  N 1  N 2   = a  {\displaystyle {\frac {V_{1}}{V_{2}}}={\frac {N_{1}}{N_{2}}}=a} 

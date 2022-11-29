@@ -1,0 +1,1 @@
+Passive components that protect circuits from excessive currents or voltages

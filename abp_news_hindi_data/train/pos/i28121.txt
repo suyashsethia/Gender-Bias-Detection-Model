@@ -1,0 +1,1 @@
+Due to the above inherent drawbacks, fixed bias is rarely used in linear circuits . Instead, it is often used in circuits where transistor is used as a switch. However, one application of fixed bias is to achieve crude automatic gain control in the transistor by feeding the base resistor from a DC signal derived from the AC output of a later stage.

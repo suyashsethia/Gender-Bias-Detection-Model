@@ -1,0 +1,1 @@
+   net run rate  =  total runs scored  total overs faced  −  total runs conceded  total overs bowled   {\displaystyle {\mbox{net run rate }}={\frac {\mbox{total runs scored}}{\mbox{total overs faced}}}-{\frac {\mbox{total runs conceded }}{\mbox{total overs bowled}}}} 

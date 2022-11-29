@@ -1,0 +1,1 @@
+. Thus the rate of change at 0 is i, so the base should be ei. Thus if this is an exponential function, then it must be

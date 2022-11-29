@@ -1,0 +1,1 @@
+   1 2    −  2   =  1 2   |  A B  |  2  |  A C  |  2  −  2   .  {\displaystyle {\frac {1}{2}}{\sqrt {-^{2}}}={\frac {1}{2}}{\sqrt {|\mathbf {AB} |^{2}|\mathbf {AC} |^{2}-^{2}}}.\,} 

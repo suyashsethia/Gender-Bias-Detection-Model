@@ -1,0 +1,1 @@
+The SSA condition proves congruence if the angle is acute and the opposite side either equals the adjacent side times the sine of the angle or is longer than the adjacent side.

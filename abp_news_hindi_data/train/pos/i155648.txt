@@ -1,0 +1,1 @@
+In Unicode, Letterlike Symbols are placed in the block U+2100–214F, as in the following table.

@@ -1,0 +1,1 @@
+   P a r t i a l η  2  =  S S t r e a t m e n t   S S t r e a t m e n t  + S S e r r o r    {\displaystyle {Partial\eta }^{2}={\frac {SS_{treatment}}{SS_{treatment}+SS_{error}}}} 

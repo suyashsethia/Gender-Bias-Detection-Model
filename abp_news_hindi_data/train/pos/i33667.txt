@@ -1,0 +1,1 @@
+Line 16: लाइनडाटा =- Command '' unknown.Line 17: at:07/01/1997 color:black layer:back- New command expected instead of data line . Data line ignored.

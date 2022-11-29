@@ -1,0 +1,1 @@
+भुजाओं   a, b, c, d  {\displaystyle a,b,c,d} और भुजाओं   a  {\displaystyle a} तथा   b  {\displaystyle b} के बीच कोण   α  {\displaystyle \alpha } वाले चतुर्भुज के क्षेत्रफल के लिए अंतिम त्रिकोणमितीय सूत्र निम्न है: 

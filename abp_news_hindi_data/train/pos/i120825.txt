@@ -1,0 +1,1 @@
+    d 2  y  d x 2   + b  d y  d x  + c y = r   {\displaystyle {\frac {d^{2}y}{dx^{2}}}+b{\frac {dy}{dx}}+cy=r\,\!} 

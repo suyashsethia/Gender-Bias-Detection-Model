@@ -1,0 +1,1 @@
+"not '" is the same as " or "

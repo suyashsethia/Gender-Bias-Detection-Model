@@ -1,0 +1,1 @@
+    K  =    −  1 2  a b c d      =    − a b c d      {\displaystyle {\begin{aligned}K&={\sqrt {-{\tfrac {1}{2}}abcd\;}}\\&={\sqrt {-abcd\left}}\end{aligned}}} 
