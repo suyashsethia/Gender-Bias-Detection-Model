@@ -1,1 +1,0 @@
-unit cell The simplest part of a crystal that can be repeated over and over to make the whole thing.

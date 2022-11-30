@@ -1,1 +1,0 @@
-  K =  1 2  a b ⋅ sin ⁡ α +  1 4   4 c 2  d 2  −  2  ,  {\displaystyle K={\tfrac {1}{2}}ab\cdot \sin {\alpha }+{\tfrac {1}{4}}{\sqrt {4c^{2}d^{2}-^{2}}},} 

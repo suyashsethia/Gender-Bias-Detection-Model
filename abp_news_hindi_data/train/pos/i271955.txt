@@ -1,1 +1,0 @@
-The file formats used inMAD may be the most common, with translation routines available to convert to an input form needed for a different code. Associated with the Elegant code is a data format called SDDS, with an associated suite of tools. If one uses a Matlab-based code, such as Accelerator Toolbox, one has available all the tools within Matlab.

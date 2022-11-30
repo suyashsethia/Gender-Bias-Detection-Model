@@ -1,1 +1,0 @@
-   y c  = C 1  e    x 2   + C 2  e −   x 2     {\displaystyle y_{c}=C_{1}e^{\left{\frac {x}{2}}}+C_{2}e^{-\left{\frac {x}{2}}}\,\!} 

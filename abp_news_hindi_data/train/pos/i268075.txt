@@ -1,1 +1,0 @@
-*Or ±0.5 pF, whichever is greater.

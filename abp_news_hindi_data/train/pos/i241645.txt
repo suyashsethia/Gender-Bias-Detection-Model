@@ -1,1 +1,0 @@
-लुआ त्रुटि Module:Location_map में पंक्ति 501 पर: Unable to find the specified location map definition. Neither "Module:Location map/data/Spain Palma" nor "Template:Location map Spain Palma" exists।

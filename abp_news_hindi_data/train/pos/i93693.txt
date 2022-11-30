@@ -1,1 +1,0 @@
-यदि x का एक बहुपदीय फलन f हैं, जिसें x के गुणक पूर्णांक हैं और a   ≡  {\displaystyle \equiv } b, तो f   ≡  {\displaystyle \equiv } f, परंतु यदि ab   ≡  {\displaystyle \equiv } ac, तो यह आवश्यक नहीं है कि b   ≡  {\displaystyle \equiv } c, उदाहरणार्थ 1   ≡  {\displaystyle \equiv } 6, परंतु 1 और 3 समशेष नहीं हैं के प्रति।

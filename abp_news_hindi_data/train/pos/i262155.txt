@@ -1,1 +1,0 @@
-When a = 1, this can be simplified to

@@ -1,1 +1,0 @@
-Originally larger countries, such as France, were assigned two-digit codes and small countries, such as Iceland, were assigned three-digit codes; however since the 1980s all new assignments have been three-digit regardless of countries’ sizes.

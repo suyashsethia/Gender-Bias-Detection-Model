@@ -1,1 +1,0 @@
-In a similar fashion, the squared volume V of a parallelepiped spanned by the three vectors A, B and C is given by the Gram determinant of the three vectors:

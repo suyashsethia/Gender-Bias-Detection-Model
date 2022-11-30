@@ -1,1 +1,0 @@
-Components that store electrical charge in an electrical field.Capacitors are used for filtration in the electronic circuits.Capacitors in general pass changing and block unchanging voltage levels.

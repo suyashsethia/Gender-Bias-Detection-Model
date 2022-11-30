@@ -1,1 +1,0 @@
-LAMP: ओपेन सोर्स सॉफ्टवेयर के चार मुख्य स्तम्भ हैं: LinuxAppacheMySQLPython, Perl, PHP इत्यादि

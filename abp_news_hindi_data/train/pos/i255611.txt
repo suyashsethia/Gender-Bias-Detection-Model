@@ -1,1 +1,0 @@
-For   r ≠ 1  {\displaystyle r\neq 1}, the sum of the first n terms of a geometric series is

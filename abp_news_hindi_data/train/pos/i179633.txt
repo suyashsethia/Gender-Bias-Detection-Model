@@ -1,1 +1,0 @@
-The following is perhaps not as readily generalized to an identity containing variables:

@@ -1,1 +1,0 @@
-जिसका हल है :   y = 2 e x    {\displaystyle y=2e^{x}\,\!} .

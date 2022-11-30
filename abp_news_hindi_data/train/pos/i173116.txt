@@ -1,1 +1,0 @@
-align="center"style="background: #ffdddd" class="table-no2" | Loss50,6

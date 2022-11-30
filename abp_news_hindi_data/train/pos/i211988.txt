@@ -1,1 +1,0 @@
-The area Σ of a parallelogram with sides A and B containing the angle θ is:

@@ -1,1 +1,0 @@
-Particular integral yp: in general the method of variation of parameters, though for very simple r inspection may work.

@@ -1,1 +1,0 @@
-अगर p एक अभाज्य संख्या है, तो   F p  ≡       and    F p −   ≡ 0   .  {\displaystyle F_{p}\equiv \left{\pmod {p}}\;\;{\mbox{ and }}\;\;\;F_{p-\left}\equiv 0{\pmod {p}}.} 

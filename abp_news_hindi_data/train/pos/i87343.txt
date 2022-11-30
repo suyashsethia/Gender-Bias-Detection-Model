@@ -1,1 +1,0 @@
-SR = Strike Ratio, the ratio of tournaments won to those played.NH = प्रतियोगिता का आयोजन नहीं हुआ

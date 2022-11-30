@@ -1,1 +1,0 @@
-यदि a   ≡  {\displaystyle \equiv } b और c   ≡  {\displaystyle \equiv } d, तब a+c   ≡  {\displaystyle \equiv } b+d और ac   ≡  {\displaystyle \equiv } bd ।

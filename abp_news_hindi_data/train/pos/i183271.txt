@@ -1,1 +1,0 @@
-   ∑ j = 0  n  b j    d j  y  d x j   = r   {\displaystyle \sum _{j=0}^{n}b_{j}{\frac {d^{j}y}{dx^{j}}}=r\,\!} 

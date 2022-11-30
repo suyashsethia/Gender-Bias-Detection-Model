@@ -1,1 +1,0 @@
-A standard-quality YouTube video has a picture 320 pixels wide by 240 pixels high and uses the Sorenson Spark H.263 video codec . विडियो सिग्नल का बिट दर करीब 314 के बिट/ एक निर्भर अपलोड विडियो फ्रेम दर के साथ फ्रेम दर के साथ hai

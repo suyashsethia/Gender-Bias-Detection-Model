@@ -1,1 +1,0 @@
-Many of early models output composite video YPbPr colors. When seen on TV devices, the perception of the colors may be not corresponding with the value levels for the YPbPr values employed .

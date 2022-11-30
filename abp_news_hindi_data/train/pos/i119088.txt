@@ -1,1 +1,0 @@
-माना    d x  d t  =  − t x   {\displaystyle {\frac {dx}{dt}}={\frac {-t}{x}}} का हल निकालना है। दिया हुआ है कि   t = 0  x = 1  {\displaystyle t=0\,\,\,x=1} 

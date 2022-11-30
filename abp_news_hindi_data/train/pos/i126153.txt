@@ -1,1 +1,0 @@
-   I 2  =  1  s 2  + 70 s + 325     )  =  1       {\displaystyle I_{2}={\frac {1}{s^{2}+70s+325}}{\biggl {\biggr )}={\frac {1}{}}{\biggl }} 

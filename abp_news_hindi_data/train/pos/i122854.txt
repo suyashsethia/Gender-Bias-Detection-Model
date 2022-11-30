@@ -1,1 +1,0 @@
-The vector product and the scalar product of two vectors define the angle between them, say θ:

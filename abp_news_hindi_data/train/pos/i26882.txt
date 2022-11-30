@@ -1,1 +1,0 @@
-The HTML 4.01 specification defines sixteen named colors, as follows :

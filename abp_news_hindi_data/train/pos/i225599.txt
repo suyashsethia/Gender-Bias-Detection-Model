@@ -1,1 +1,0 @@
-Systems that use a 4-bit or 8-bit pixel depth can display up to 16 or 256 colors simultaneously. Many personal computers in the later 1980s and early 1990s displayed at most 256 different colors, freely selected by software from their wider hardware's color palette.

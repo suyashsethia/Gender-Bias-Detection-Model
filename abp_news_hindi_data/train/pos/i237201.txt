@@ -1,1 +1,0 @@
-   P i    = P i + 1     {\displaystyle P_{i}^{}=P_{i+1}^{}} 

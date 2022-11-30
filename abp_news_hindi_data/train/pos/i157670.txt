@@ -1,1 +1,0 @@
-  K =  1 2   | tan ⁡ θ | ⋅ |  a 2  − b 2  | .  {\displaystyle K={\tfrac {1}{2}}|\tan \theta |\cdot \left|a^{2}-b^{2}\right|.} 

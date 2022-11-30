@@ -1,1 +1,0 @@
-   y c  = ∑ j = 1  n    e  α j  x    {\displaystyle y_{c}=\sum _{j=1}^{n}\lefte^{\alpha _{j}x}\,\!} 

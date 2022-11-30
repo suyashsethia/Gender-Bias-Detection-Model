@@ -1,1 +1,0 @@
-n के सब मानों के लिये,   0 ≤  a n  ≤  b n   {\displaystyle 0\leq \ a_{n}\leq \ b_{n}}, तथा   ∑ n = 1  ∞  b n   {\displaystyle \sum _{n=1}^{\infty }b_{n}} अभिसारी हो तो   ∑ n = 1  ∞  a n   {\displaystyle \sum _{n=1}^{\infty }a_{n}} भी अभिसारी होगी।

@@ -1,1 +1,0 @@
-be defined on X = Rn, where साँचा:Mvar is a real, positive definite matrix. Then साँचा:Mvar is convex, and

@@ -1,1 +1,0 @@
-The complex forms in the definitions above derive from Euler's formula.

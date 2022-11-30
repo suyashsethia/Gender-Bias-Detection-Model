@@ -1,1 +1,0 @@
-enthalpy A measurement of the energy content of a system.

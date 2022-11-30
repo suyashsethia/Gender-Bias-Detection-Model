@@ -1,1 +1,0 @@
-To satisfy the right-hand rule, for positive θ, vector B is counter-clockwise from A, and for negative θ it is clockwise.

@@ -1,1 +1,0 @@
-where Y and X are functions from the integrals rather than constant values, which are set to make the final function F satisfy the initial equation.

@@ -1,1 +1,0 @@
-Here the notation denotes the dot product of vectors A and B.

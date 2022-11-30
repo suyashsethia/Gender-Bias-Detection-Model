@@ -1,1 +1,0 @@
-where a is the first term of the series, and r is the common ratio. We can derive this formula as follows:

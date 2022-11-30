@@ -1,1 +1,0 @@
-Areas within NANPA are assigned area codes as if they were all areas within one country.The codes below in format +1-XXX represent area code XXX within the +1 NANPA zone — not a separate country code. For example, the dialing code for Guam is +1 followed by the area code 671 — not +671 or +1671.

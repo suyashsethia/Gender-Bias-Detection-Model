@@ -1,1 +1,0 @@
-which will be recognized as the magnitude of the vector cross product of the vectors A and B lying along the sides of the parallelogram. That is:

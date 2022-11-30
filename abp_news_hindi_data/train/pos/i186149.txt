@@ -1,1 +1,0 @@
-where Γ is the Gram determinant of A and B defined by:

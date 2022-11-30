@@ -1,1 +1,0 @@
-The color palettes of some of the most popular early personal computers and terminals. They may be based on RGB palettes, but also common are specific hardware-implemented 4, 16 or more colors palettes: not bit nor level combinations of RGB primaries, but fixed ROM/circuitry colors selected by the manufacturer.

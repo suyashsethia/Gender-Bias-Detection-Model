@@ -1,1 +1,0 @@
-Here the notation A × B denotes the vector cross product of vectors A and B.The Pythagorean trigonometric identity then provides:

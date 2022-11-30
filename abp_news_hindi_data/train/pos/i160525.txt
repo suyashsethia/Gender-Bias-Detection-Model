@@ -1,1 +1,0 @@
-As n goes to infinity, the absolute value of r must be less than one for the series to converge. The sum then becomes

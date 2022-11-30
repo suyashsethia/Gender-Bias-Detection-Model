@@ -1,1 +1,0 @@
-The formula also holds for complex r, with the corresponding restriction, the modulus of r is strictly less than one.

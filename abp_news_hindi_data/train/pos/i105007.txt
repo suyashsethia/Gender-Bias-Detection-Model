@@ -1,1 +1,0 @@
-Note that the above step requires that a > 0 and cos > 0; we can choose the a to be the positive square root of a2; and we impose the restriction on θ to be −π/2 < θ < π/2 by using the arcsin function.
